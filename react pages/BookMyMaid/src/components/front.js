@@ -255,7 +255,7 @@ class Front extends React.Component {
                     </ul>
                     <div class="team-content">
                         <h3 class="title">Akshay</h3>
-                        <span class="post">Web Developer</span>
+                        <span class="post">Backend Developer</span>
                     </div>
                     <p class="description">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ac eros lacus. Sed commodo fringilla pharetra. Proin sodales risus et nunc volutpat.
